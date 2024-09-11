@@ -1,4 +1,7 @@
-# Eye Gaze and GSR Analysis Project
+# Master Thesis "A Comparative Study of Rider Stress, Visual
+Attention, and Motion Dynamics on Traditional Bike
+vs Electric Cargo Bike Across Varying Load and
+Speed Conditions"
 
 
 This project involves analyzing eye gaze data (saccades, fixations) and Galvanic Skin Response (GSR) data collected from participants using Cargo Bikes and Normal Bikes under various conditions. The project includes data cleaning, analysis, visualization, and correlation analysis between eye gaze metrics and GSR data.
